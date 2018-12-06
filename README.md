@@ -1,2 +1,3 @@
-# lucky
-welcome to first projecct
+# maven-project
+
+Simple Maven Project
